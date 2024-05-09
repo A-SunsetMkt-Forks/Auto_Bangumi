@@ -21,7 +21,7 @@
     "@headlessui/vue": "^1.7.13",
     "@vueuse/components": "^10.4.1",
     "@vueuse/core": "^8.9.4",
-    "axios": "^0.27.2",
+    "axios": "^0.28.0",
     "lodash": "^4.17.21",
     "naive-ui": "^2.34.4",
     "pinia": "^2.1.3",
